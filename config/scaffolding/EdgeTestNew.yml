@@ -1,0 +1,10 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: EdgeTestNew
+  gitServerName: newMay29Flow
+  gitUrl: https://github.com/Munatri/EdgeTestNew
+  gitUsername: Munatri
+  gitToken: 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
+  gitBranch: master
